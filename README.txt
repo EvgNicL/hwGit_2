@@ -12,4 +12,4 @@
 3. Попробуйте отменить эти три коммита:
     последний — командами git reset --soft и git restore;
     предпоследний — командой git reset --mixed и git restore;
-    * первый — командой git reset --hard.
+    первый — командой git reset --hard.
